@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! I'm John Frederick Harrison...
+...but everyone calls me Fred.
+
+
+- He/Him
+- Computer Science & Music Technology
+- Northeastern Undergraduate Class of 2030
 
 <!--
 **j-f-harry/j-f-harry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
